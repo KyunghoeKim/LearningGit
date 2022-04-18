@@ -2,3 +2,4 @@
 1. Uploading t-shirt
 2. Buying t-shirt
 3. Adding to cart
+4. Showing detail pages
